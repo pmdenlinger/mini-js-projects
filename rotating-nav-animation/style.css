@@ -102,7 +102,7 @@ nav ul li i {
 
 nav ul li + li {
   margin-left: 15px;
-  transform: translateX(-150%);
+  transform: translateX(-150px);
 }
 
 nav ul li + li + li {
